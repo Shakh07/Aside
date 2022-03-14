@@ -1,9 +1,10 @@
 # aside-component
 
-```
-Vue.js 2, TailwindCSS 3
+[aside-component](https://shakh07.github.io/Aside/)
 
-```
+## Tools
+
+Vue.js 2, TailwindCSS 3
 
 ## Project setup
 
